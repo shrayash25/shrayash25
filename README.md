@@ -5,9 +5,9 @@
 -->
 
 
-- 📚 I'm a Fresher at Birla Institute of Technology and Science, Pilani, enrolled in Electrical and Electronics Engineering
+- 📚 I'm a Fresher at Birla Institute of Technology and Science, Pilani, enrolled in the Electrical and Electronics Engineering program
 - 🔭 I’m currently working on a couple of Web Development Projects, a Finance Management App and Convolutional Neural Network Projects
-- 👯 I’m looking to collaborate on Web Development Projects, App Development Projects and Machine Learning Based Projects
+- 👯 I’m looking to collaborate on Web Development Projects, App Development Projects, Blockchain Development and Machine Learning Projects
 
 
 
