@@ -5,8 +5,8 @@
 -->
 
 
-- 📚 I'm a Fresher at Birla Institute of Technology and Science, Pilani, enrolled in the Electrical and Electronics Engineering program
-- 🔭 I’m currently working on a couple of Web Development Projects, a Finance Management App and Machine Learning Projects
+- 📚 I'm a SOPHOMORE at BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI, enrolled in the ELECTRICAL AND ELECTRONICS ENGINEERING program
+- 🔭 I’m currently working on a couple of Web Development Projects, a SaaS Start-Up and a couple other ML projects
 - 👯 I’m looking to collaborate on Web Development Projects, Blockchain Development and Machine Learning Projects
 
 
