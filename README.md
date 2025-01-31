@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrayash</h1>
 <h3 align="center">A Sophomore at Birla Institute of Technology and Science, Pilani</h3>
 
-- 🔭 I’m currently working on **A SaaS Start-Up, Web Dev Projects and ML Projects**
+- 🔭 I’m currently working on **Full Stack Web Development, Blockchain Projects and ML Projects**
 
 - 🤝 I’m looking to collaborate on **Full Stack, ML and Blockchain Projects**
 
